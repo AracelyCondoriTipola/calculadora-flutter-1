@@ -198,7 +198,7 @@ class _MyHomePageState extends State<MyHomePage> {
             height: availableHeight * 0.15 + mediaQuery.padding.top,
             decoration: BoxDecoration(
               gradient: LinearGradient(
-                colors: [Colors.lightGreen[200], Colors.lightBlue[100]],
+                colors: [Colors.black, Colors.black45],
                 begin: Alignment.topCenter,
                 end: Alignment.bottomCenter,
               ),
